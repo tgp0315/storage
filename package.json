@@ -1,5 +1,5 @@
 {
-  "name": "storage",
+  "name": "storage-ain",
   "version": "1.0.0",
   "description": "sessionStrage localStorage",
   "main": "./dist/index.js",
@@ -12,13 +12,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/tgp0315/storage.git"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-cli": "^2.3.0",
     "gulp-typescript": "^6.0.0-alpha.1",
     "typescript": "^3.9.7"
   }
